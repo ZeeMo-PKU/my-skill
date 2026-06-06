@@ -1,0 +1,4 @@
+interface:
+  display_name: "Device Course Report"
+  short_description: "Write device-course LaTeX reports."
+  default_prompt: "帮我根据器件课项目题目、实验结果和图片资源写一份 LaTeX 报告，并处理图片路径和 PDF 编译。"
