@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese PDF Explainer"
+  short_description: "Explain PDFs in Chinese"
+  default_prompt: "Use $chinese-pdf-explainer to explain this paper in Chinese with metadata, translation, summary, evaluation, and project relevance."
