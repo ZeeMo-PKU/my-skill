@@ -1,0 +1,4 @@
+interface:
+  display_name: "家教作业出题"
+  short_description: "按教材、难度和题型生成家教作业。"
+  default_prompt: "帮我按科目、范围、难度、数量和题型，参考教材或习题册生成一份家教作业，并按需要输出学生版和答案版。"

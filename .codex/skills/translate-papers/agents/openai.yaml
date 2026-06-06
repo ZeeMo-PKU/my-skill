@@ -1,0 +1,4 @@
+interface:
+  display_name: "Translate Papers"
+  short_description: "Translate and explain academic English while preserving meaning."
+  default_prompt: "Translate and explain this academic paper text with faithful meaning, original English, summary, and project implications."

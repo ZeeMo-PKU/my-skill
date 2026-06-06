@@ -1,0 +1,464 @@
+﻿[
+    {
+        "name":  "academic-paper-to-slides",
+        "path":  ".codex/skills/academic-paper-to-slides",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/academic-paper-to-slides",
+        "status":  "present"
+    },
+    {
+        "name":  "agent-reach",
+        "path":  ".codex/skills/agent-reach",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/agent-reach",
+        "status":  "present"
+    },
+    {
+        "name":  "agent-reach",
+        "path":  ".codex/skills/agent-reach",
+        "source_repo":  "ZeeMo-PKU/codex-personal-skills",
+        "source_path":  "agent-reach",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "aspnet-core",
+        "path":  ".codex/skills/aspnet-core",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/aspnet-core",
+        "status":  "present"
+    },
+    {
+        "name":  "aspnet-core",
+        "path":  ".codex/skills/aspnet-core",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/aspnet-core",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "chatgpt-apps",
+        "path":  ".codex/skills/chatgpt-apps",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/chatgpt-apps",
+        "status":  "present"
+    },
+    {
+        "name":  "chatgpt-apps",
+        "path":  ".codex/skills/chatgpt-apps",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/chatgpt-apps",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "chinese-pdf-explainer",
+        "path":  ".codex/skills/chinese-pdf-explainer",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/chinese-pdf-explainer",
+        "status":  "present"
+    },
+    {
+        "name":  "chinese-pdf-explainer",
+        "path":  ".codex/skills/chinese-pdf-explainer",
+        "source_repo":  "ZeeMo-PKU/codex-personal-skills",
+        "source_path":  "chinese-pdf-explainer",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "cli-creator",
+        "path":  ".codex/skills/cli-creator",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/cli-creator",
+        "status":  "present"
+    },
+    {
+        "name":  "cli-creator",
+        "path":  ".codex/skills/cli-creator",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/cli-creator",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "cloudflare-deploy",
+        "path":  ".codex/skills/cloudflare-deploy",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/cloudflare-deploy",
+        "status":  "present"
+    },
+    {
+        "name":  "cloudflare-deploy",
+        "path":  ".codex/skills/cloudflare-deploy",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/cloudflare-deploy",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "define-goal",
+        "path":  ".codex/skills/define-goal",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/define-goal",
+        "status":  "present"
+    },
+    {
+        "name":  "define-goal",
+        "path":  ".codex/skills/define-goal",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/define-goal",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "device-course-report",
+        "path":  ".codex/skills/device-course-report",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/device-course-report",
+        "status":  "present"
+    },
+    {
+        "name":  "device-course-report",
+        "path":  ".codex/skills/device-course-report",
+        "source_repo":  "ZeeMo-PKU/codex-personal-skills",
+        "source_path":  "device-course-report",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma",
+        "path":  ".codex/skills/figma",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma",
+        "status":  "present"
+    },
+    {
+        "name":  "figma",
+        "path":  ".codex/skills/figma",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-code-connect-components",
+        "path":  ".codex/skills/figma-code-connect-components",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-code-connect-components",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-code-connect-components",
+        "path":  ".codex/skills/figma-code-connect-components",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-code-connect-components",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-create-design-system-rules",
+        "path":  ".codex/skills/figma-create-design-system-rules",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-create-design-system-rules",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-create-design-system-rules",
+        "path":  ".codex/skills/figma-create-design-system-rules",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-create-design-system-rules",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-create-new-file",
+        "path":  ".codex/skills/figma-create-new-file",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-create-new-file",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-create-new-file",
+        "path":  ".codex/skills/figma-create-new-file",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-create-new-file",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-generate-design",
+        "path":  ".codex/skills/figma-generate-design",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-generate-design",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-generate-design",
+        "path":  ".codex/skills/figma-generate-design",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-generate-design",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-generate-library",
+        "path":  ".codex/skills/figma-generate-library",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-generate-library",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-generate-library",
+        "path":  ".codex/skills/figma-generate-library",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-generate-library",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-implement-design",
+        "path":  ".codex/skills/figma-implement-design",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-implement-design",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-implement-design",
+        "path":  ".codex/skills/figma-implement-design",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-implement-design",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figma-use",
+        "path":  ".codex/skills/figma-use",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figma-use",
+        "status":  "present"
+    },
+    {
+        "name":  "figma-use",
+        "path":  ".codex/skills/figma-use",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/figma-use",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "figure-extraction",
+        "path":  ".codex/skills/figure-extraction",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figure-extraction",
+        "status":  "present"
+    },
+    {
+        "name":  "figure-generation",
+        "path":  ".codex/skills/figure-generation",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/figure-generation",
+        "status":  "present"
+    },
+    {
+        "name":  "gh-address-comments",
+        "path":  ".codex/skills/gh-address-comments",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/gh-address-comments",
+        "status":  "present"
+    },
+    {
+        "name":  "gh-address-comments",
+        "path":  ".codex/skills/gh-address-comments",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/gh-address-comments",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "gh-fix-ci",
+        "path":  ".codex/skills/gh-fix-ci",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/gh-fix-ci",
+        "status":  "added"
+    },
+    {
+        "name":  "hatch-pet",
+        "path":  ".codex/skills/hatch-pet",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/hatch-pet",
+        "status":  "added"
+    },
+    {
+        "name":  "jupyter-notebook",
+        "path":  ".codex/skills/jupyter-notebook",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/jupyter-notebook",
+        "status":  "added"
+    },
+    {
+        "name":  "linear",
+        "path":  ".codex/skills/linear",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/linear",
+        "status":  "added"
+    },
+    {
+        "name":  "migrate-to-codex",
+        "path":  ".codex/skills/migrate-to-codex",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/migrate-to-codex",
+        "status":  "added"
+    },
+    {
+        "name":  "netlify-deploy",
+        "path":  ".codex/skills/netlify-deploy",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/netlify-deploy",
+        "status":  "added"
+    },
+    {
+        "name":  "notion-knowledge-capture",
+        "path":  ".codex/skills/notion-knowledge-capture",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/notion-knowledge-capture",
+        "status":  "added"
+    },
+    {
+        "name":  "notion-meeting-intelligence",
+        "path":  ".codex/skills/notion-meeting-intelligence",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/notion-meeting-intelligence",
+        "status":  "added"
+    },
+    {
+        "name":  "notion-research-documentation",
+        "path":  ".codex/skills/notion-research-documentation",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/notion-research-documentation",
+        "status":  "added"
+    },
+    {
+        "name":  "notion-spec-to-implementation",
+        "path":  ".codex/skills/notion-spec-to-implementation",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/notion-spec-to-implementation",
+        "status":  "added"
+    },
+    {
+        "name":  "openai-docs",
+        "path":  ".codex/skills/openai-docs",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/openai-docs",
+        "status":  "added"
+    },
+    {
+        "name":  "pdf",
+        "path":  ".codex/skills/pdf",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/pdf",
+        "status":  "added"
+    },
+    {
+        "name":  "playwright",
+        "path":  ".codex/skills/playwright",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/playwright",
+        "status":  "added"
+    },
+    {
+        "name":  "playwright-interactive",
+        "path":  ".codex/skills/playwright-interactive",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/playwright-interactive",
+        "status":  "added"
+    },
+    {
+        "name":  "render-deploy",
+        "path":  ".codex/skills/render-deploy",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/render-deploy",
+        "status":  "added"
+    },
+    {
+        "name":  "screenshot",
+        "path":  ".codex/skills/screenshot",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/screenshot",
+        "status":  "added"
+    },
+    {
+        "name":  "security-best-practices",
+        "path":  ".codex/skills/security-best-practices",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/security-best-practices",
+        "status":  "added"
+    },
+    {
+        "name":  "security-ownership-map",
+        "path":  ".codex/skills/security-ownership-map",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/security-ownership-map",
+        "status":  "added"
+    },
+    {
+        "name":  "security-threat-model",
+        "path":  ".codex/skills/security-threat-model",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/security-threat-model",
+        "status":  "added"
+    },
+    {
+        "name":  "sentry",
+        "path":  ".codex/skills/sentry",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/sentry",
+        "status":  "added"
+    },
+    {
+        "name":  "speech",
+        "path":  ".codex/skills/speech",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/speech",
+        "status":  "added"
+    },
+    {
+        "name":  "transcribe",
+        "path":  ".codex/skills/transcribe",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/transcribe",
+        "status":  "added"
+    },
+    {
+        "name":  "translate-papers",
+        "path":  ".codex/skills/translate-papers",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/translate-papers",
+        "status":  "present"
+    },
+    {
+        "name":  "translate-papers",
+        "path":  ".codex/skills/translate-papers",
+        "source_repo":  "ZeeMo-PKU/codex-personal-skills",
+        "source_path":  "translate-papers",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "tutor-homework-maker",
+        "path":  ".codex/skills/tutor-homework-maker",
+        "source_repo":  "existing-target",
+        "source_path":  ".codex/skills/tutor-homework-maker",
+        "status":  "present"
+    },
+    {
+        "name":  "tutor-homework-maker",
+        "path":  ".codex/skills/tutor-homework-maker",
+        "source_repo":  "ZeeMo-PKU/codex-personal-skills",
+        "source_path":  "tutor-homework-maker",
+        "status":  "skipped-duplicate"
+    },
+    {
+        "name":  "vercel-deploy",
+        "path":  ".codex/skills/vercel-deploy",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/vercel-deploy",
+        "status":  "added"
+    },
+    {
+        "name":  "winui-app",
+        "path":  ".codex/skills/winui-app",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/winui-app",
+        "status":  "added"
+    },
+    {
+        "name":  "yeet",
+        "path":  ".codex/skills/yeet",
+        "source_repo":  "ZeeMo-PKU/codex-skill-library",
+        "source_path":  "skills/yeet",
+        "status":  "added"
+    }
+]
