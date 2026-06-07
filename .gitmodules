@@ -1,0 +1,3 @@
+[submodule ".codex/skills/nature-writing"]
+	path = .codex/skills/nature-writing
+	url = https://github.com/SyntaxSmith/nature-writing-skill.git

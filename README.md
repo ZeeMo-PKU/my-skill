@@ -31,6 +31,7 @@ Skills live under `.codex/skills/<skill-name>`.
 - `jupyter-notebook`
 - `linear`
 - `migrate-to-codex`
+- `nature-writing`
 - `netlify-deploy`
 - `notion-knowledge-capture`
 - `notion-meeting-intelligence`
@@ -61,3 +62,13 @@ python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github
 ```
 
 See `skills-manifest.json` for source tracking.
+
+## Submodules
+
+- `nature-writing` is tracked as a git submodule from `SyntaxSmith/nature-writing-skill` at commit `c1a8716047b6304d922b9528a18421203e3e7acc`. This preserves the upstream source and avoids mixing its no-LICENSE content into this repository's license grant.
+
+When cloning this repository, initialize submodules with:
+
+```sh
+git submodule update --init --recursive
+```

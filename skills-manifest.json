@@ -294,6 +294,15 @@
         "status":  "added"
     },
     {
+        "name":  "nature-writing",
+        "path":  ".codex/skills/nature-writing",
+        "source_repo":  "SyntaxSmith/nature-writing-skill",
+        "source_path":  ".",
+        "source_ref":  "c1a8716047b6304d922b9528a18421203e3e7acc",
+        "status":  "added-submodule",
+        "notes":  "Tracked as a git submodule because the upstream repository has no LICENSE file."
+    },
+    {
         "name":  "netlify-deploy",
         "path":  ".codex/skills/netlify-deploy",
         "source_repo":  "ZeeMo-PKU/codex-skill-library",
